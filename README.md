@@ -73,7 +73,7 @@ Make sure you have already installed Node.js in your device. Also make sure you 
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/alvaro-8a/hardhat-nft-marketplace-fcc.git
+   git clone https://github.com/alvaro-8a/hardhat-dao-fcc.git
    ```
 2. Install YARN packages
    ```sh
@@ -109,7 +109,7 @@ This repo can also be used to learn about testing Smart Contract on hardhat, the
 - [✔️] Scripts to check the work flow
 - [   ] Tests
 
-See the [open issues](https://github.com/alvaro-8a/hardhat-nft-marketplace-fcc/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/alvaro-8a/hardhat-dao-fcc/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -147,7 +147,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@alvaro_8a_](https://twitter.com/alvaro_8a_) - alvaroblanco8a@gmail.com
 
-Project Link: [https://github.com/alvaro-8a/hardhat-nft-marketplace-fcc](https://github.com/alvaro-8a/hardhat-nft-marketplace-fcc)
+Project Link: [https://github.com/alvaro-8a/hardhat-dao-fcc](https://github.com/alvaro-8a/hardhat-dao-fcc)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -166,16 +166,16 @@ Project Link: [https://github.com/alvaro-8a/hardhat-nft-marketplace-fcc](https:/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/alvaro-8a/hardhat-nft-marketplace-fcc.svg?style=for-the-badge
-[contributors-url]: https://github.com/alvaro-8a/hardhat-nft-marketplace-fcc/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/alvaro-8a/hardhat-nft-marketplace-fcc.svg?style=for-the-badge
-[forks-url]: https://github.com/alvaro-8a/hardhat-nft-marketplace-fcc/network/members
-[stars-shield]: https://img.shields.io/github/stars/alvaro-8a/hardhat-nft-marketplace-fcc.svg?style=for-the-badge
-[stars-url]: https://github.com/alvaro-8a/hardhat-nft-marketplace-fcc/stargazers
-[issues-shield]: https://img.shields.io/github/issues/alvaro-8a/hardhat-nft-marketplace-fcc.svg?style=for-the-badge
-[issues-url]: https://github.com/alvaro-8a/hardhat-nft-marketplace-fcc/issues
-[license-shield]: https://img.shields.io/github/license/alvaro-8a/hardhat-nft-marketplace-fcc.svg?style=for-the-badge
-[license-url]: https://github.com/alvaro-8a/hardhat-nft-marketplace-fcc/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/alvaro-8a/hardhat-dao-fcc.svg?style=for-the-badge
+[contributors-url]: https://github.com/alvaro-8a/hardhat-dao-fcc/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/alvaro-8a/hardhat-dao-fcc.svg?style=for-the-badge
+[forks-url]: https://github.com/alvaro-8a/hardhat-dao-fcc/network/members
+[stars-shield]: https://img.shields.io/github/stars/alvaro-8a/hardhat-dao-fcc.svg?style=for-the-badge
+[stars-url]: https://github.com/alvaro-8a/hardhat-dao-fcc/stargazers
+[issues-shield]: https://img.shields.io/github/issues/alvaro-8a/hardhat-dao-fcc.svg?style=for-the-badge
+[issues-url]: https://github.com/alvaro-8a/hardhat-dao-fcc/issues
+[license-shield]: https://img.shields.io/github/license/alvaro-8a/hardhat-dao-fcc.svg?style=for-the-badge
+[license-url]: https://github.com/alvaro-8a/hardhat-dao-fcc/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/alvaro-blanco-ochoa-9b14561a9
 [product-screenshot]: images/screenshot.png
