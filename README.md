@@ -27,7 +27,7 @@ It includes scripts to check the functionality of the DAO, inside the scripts fo
 2. Vote
 3. Queue the proposal and then execute it
 
-Tests pending for the contracts and deployment functions for hardhat
+It includes tests for the contracts and deployment functions for hardhat and real networks (ethereum, rinkeby, polygon...)
 
 This project demonstrates an advanced Hardhat use case, integrating other tools commonly used alongside Hardhat in the ecosystem.
 
@@ -77,7 +77,7 @@ Make sure you have already installed Node.js in your device. Also make sure you 
    ```
 2. Install YARN packages
    ```sh
-   yarn install
+   yarn
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -88,6 +88,8 @@ Make sure you have already installed Node.js in your device. Also make sure you 
 ## Usage
 
 You can use this code it as a template to develop your own DAO contract, there are many improvements that can be done so feel free to make any change.
+
+This repo can also be used to learn about testing Smart Contract on hardhat, there are some tests written to understand the basics but you can write new one or redesign mines to fit you.
 
 This repo can also be used to learn about testing Smart Contract on hardhat, there are some tests written to understand the basics but you can write new one or redesign mines to fit you. 
 
